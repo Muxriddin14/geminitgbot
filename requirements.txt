@@ -1,4 +1,4 @@
-python-telegram-bot==20.0
-yt-dlp==2024.3.10
-flask
-python-telegram-bot
+aiogram==3.8.0
+google-generativeai
+python-dotenv
+aiohttp
